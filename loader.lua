@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://ZOKADA.github.io/RobloxScript/main.lua"))()
+loadstring(game:HttpGet("https://zokada.github.io/RobloxScript/main.lua"))()
